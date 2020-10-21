@@ -1,6 +1,6 @@
 <?php
 namespace UniappPush;
-class UPush
+class Push
 {
     const DEMO = 11112;
 }
